@@ -1,10 +1,12 @@
 # LPG-leak-detection
 
 DESCRIPTION 
+
 The system detect the lpg around if it concentration is high it trigger the buzzer and red led
 if the concentration of gas is low or negelcgible it turned on green led.
 
 THE COMPONENTS:
+
 1. Arduino uno R3
 2. red led
 3. green led
@@ -16,6 +18,7 @@ THE COMPONENTS:
 9. MQ-06
 
 WORKING 
+
 When the gas concentration increase the mq sensor change resistance 
 if it greater then threshold value it digital write the buzzer using tone
 and digital write the red led and if there gas value smaller then threshold value
