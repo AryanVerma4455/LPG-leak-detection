@@ -22,4 +22,5 @@ and digital write the red led and if there gas value smaller then threshold valu
 it digital write the green led to high.
 
 FOR CODE
+
 Open the Gas_detection.ino file.
